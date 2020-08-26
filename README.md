@@ -3,7 +3,7 @@
 My name is LiRo5221, and i am a JS developer!
 I mostly do discord bots, but i have done some other things.
 Invite my bot:
-https://discord.com/oauth2/authorize?client_id=721030993187700747&permissions=8&scope=bot
+https://discord.ly/lirobot
 - 🔭 I’m currently working on LiRoBot, a discord multipurpose, but mostly fun bot.
 - 🌱 I’m currently learning Python, and i am self-learnt in JS and a bit of HTML.
 - 💬 Ask me about anything!
