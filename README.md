@@ -7,7 +7,7 @@ https://discord.ly/lirobot
 - 🔭 I’m currently working on LiRoBot, a discord multipurpose, but mostly fun bot.
 - 🌱 I’m currently learning Python, and i am self-learnt in JS and a bit of HTML.
 - 💬 Ask me about anything!
-- 📫 How to reach me: Email me at thatfellaliro5221@gmail.com or, if you have a discord account, send me a DM, my name is LiRo5221#7086, since i am not the best at checking my email. 
+- 📫 How to reach me: Email me at thatfellaliro5221@gmail.com or, if you have a discord account, send me a DM, my name is LiRo5221#0001, since i am not the best at checking my email. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have never taken a course in JS, though it is still my primary development language.
 
@@ -19,7 +19,7 @@ https://discord.ly/lirobot
 - 🔭 I’m currently working on LiRoBot, a discord multipurpose, but mostly fun bot.
 - 🌱 I’m currently learning Python, and i am self-learnt in JS and a bit of HTML.
 - 💬 Ask me about anything!
-- 📫 How to reach me: Email me at thatfellaliro5221@gmail.com or, if you have a discord account, send me a DM, my name is LiRo5221#7086, since im not the best at checking my email. 
+- 📫 How to reach me: Email me at thatfellaliro5221@gmail.com or, if you have a discord account, send me a DM, my name is LiRo5221#0001, since im not the best at checking my email. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have never taken a course in JS, though it is still my primary development language.
 -->
