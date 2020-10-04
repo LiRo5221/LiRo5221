@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej! 👋
 
 My name is LiRo5221, and i am a JS developer!
 I mostly do discord bots, but i have done some other things.
